@@ -7,5 +7,4 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: تشغيل الوكيل
-        run: echo "فكر واختبر شغّال"
+      - run: echo "فكر واختبر شغّال"
